@@ -9,7 +9,7 @@
 # Awesome macOS open source applications
 
 <p align="left">
-<a href="https://github.com/hpayami/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/hpayami/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+<a href="https://github.com/hpayami/"><img alt="Awesome"/></a>
 <a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
 </p>
 
