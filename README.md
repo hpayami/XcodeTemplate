@@ -9,13 +9,12 @@
 # Awesome macOS open source applications
 
 <p align="left">
-<a href="https://github.com/hpayami/"><img alt="Awesome"/></a>
-<a href="https://gitter.im/open-source-mac-os-apps/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
+<a href="https://github.com/hpayami/"><img alt="GitHub"/></a>
 </p>
 
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](CONTRIBUTING.md) to the list, any suggestions are welcome!
 
-To receive all new or popular applications you can join our [telegram channel](https://t.me/opensourcemacosapps).
+To receive all new or popular applications you can join our [telegram channel](https://t.me/hpayami).
 
 ## Support
 
